@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-<h3 align="left">Hi 👋, I'm Arnaud</h3>
+<h1 align="center">Hi 👋, I'm Arnaud</h1>
 <p align="left">I'm student at Microverse</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnaudband&label=Profile%20views&color=0e75b6&style=flat" alt="arnaudband" /> </p>
 
