@@ -1,8 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 <h3 align="left">Hi 👋, I'm Arnaud</h3>
 <p align="left">I'm student at Microverse</p>
-<img align="right" alt="Coding" width="400" src="https://e7.pngegg.com/pngimages/951/938/png-clipart-programmer-computer-programming-computer-software-allergy-miscellaneous-furniture-thumbnail.png">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnaudband&label=Profile%20views&color=0e75b6&style=flat" alt="arnaudband" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnaudband" alt="arnaudband" /></a> </p>
