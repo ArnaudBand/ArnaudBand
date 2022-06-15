@@ -3,7 +3,7 @@
 
 - ⌨ I'm student at Microverse
 - 👓 I like to work on others projects
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me **bandonkeyea@gmail.com**
 
 
