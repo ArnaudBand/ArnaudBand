@@ -19,6 +19,8 @@ const aboutMe = {
          js: ["React", "Redux"],
          css: ["Bootstrap", "Material Design", "Semantic UI"]
       },
+      tools: ["webpack", "babel"],
+      test: ["Jest"]
       databases: [ "mySQL"],
    },
    challenge: "I'm working towards being able to run a marathon.",
