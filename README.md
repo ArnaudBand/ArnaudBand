@@ -13,7 +13,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSSt],
+   code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
@@ -21,7 +21,7 @@ const aboutMe = {
       },
       tools: ["webpack", "babel"],
       test: ["Jest"]
-      databases: [ "mySQL"],
+      databases: [ "mySQL", "postgresql"],
    },
    challenge: "I'm working towards being able to run a marathon.",
 };
