@@ -4,8 +4,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - ⌨ I'm student at Microverse
-- 👓 I like to work on others projects
-- 🌱 I’m currently learning **React**
+- 👓 I like to work in team
+- 🌱 I’m currently learning **Ruby**
 - 📫 How to reach me **bandonkeyea@gmail.com**
 
 
@@ -13,14 +13,17 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: ["Javascript", "HTML", "CSS, "Ruby"],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
          css: ["Bootstrap", "Material Design", "Semantic UI"]
       },
-      tools: ["webpack", "babel"],
-      test: ["Jest"]
+      backEnd: {
+         languages: ["Ruby"]
+      },
+      tools: ["Webpack", "Babel"],
+      test: ["Jest"],
       databases: [ "mySQL", "postgresql"],
    },
    challenge: "I'm working towards being able to run a marathon.",
