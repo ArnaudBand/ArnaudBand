@@ -20,10 +20,10 @@ const aboutMe = {
          css: ["Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
-         languages: ["Ruby"]
+         languages: ["Ruby", "Ruby on rails"]
       },
       tools: ["Webpack", "Babel"],
-      test: ["Jest"],
+      test: ["Jest", "Rspec"],
       databases: [ "mySQL", "postgresql"],
    },
    challenge: "I'm working towards being able to run a marathon.",
