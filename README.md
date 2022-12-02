@@ -5,7 +5,7 @@
 
 - ⌨ I'm student at Microverse
 - 👓 I like to work in team
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently open for new opportunity
 - 📫 How to reach me **bandonkeyea@gmail.com**
 
 
