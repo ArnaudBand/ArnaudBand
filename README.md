@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- ⌨ I'm student at Microverse
+- ⌨ I've graduated at Microverse
 - 👓 I like to work in team
 - 🌱 I’m currently open for new opportunity
 - 📫 How to reach me **bandonkeyea@gmail.com**
