@@ -6,6 +6,7 @@
 - ⌨ I've graduated at Microverse
 - 👓 I like to work in team
 - 🌱 I’m currently open for new opportunity
+- 👨‍💻 I improve my skills in web3
 - 📫 How to reach me **bandonkeyea@gmail.com**
 
 
@@ -13,18 +14,18 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: ["Javascript", "HTML", "CSS, "Ruby"],
+   code: ["Javascript", "HTML", "CSS, "Ruby", "Solidity"],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React", "Redux", "Next.js"],
+         css: ["Bootstrap", "Material Design", "Semantic UI", "Tailwind"]
       },
       backEnd: {
-         languages: ["Ruby", "Ruby on rails"]
+         languages: ["Ruby", "Ruby on rails", "Node.js", "Solidity"]
       },
       tools: ["Webpack", "Babel"],
       test: ["Jest", "Rspec"],
-      databases: [ "mySQL", "postgresql"],
+      databases: [ "mySQL", "postgresql", "Mongodb"],
    },
    challenge: "I'm working towards being able to run a marathon.",
 };
