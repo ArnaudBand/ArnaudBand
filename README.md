@@ -14,18 +14,18 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: ["Javascript", "HTML", "CSS, "Ruby", "Solidity"],
+   code: [Javascript, HTML, CSS, Ruby, Solidity],
    technologies: {
       frontEnd: {
          js: ["React", "Redux", "Next.js"],
-         css: ["Bootstrap", "Material Design", "Semantic UI", "Tailwind"]
+         css: ["Bootstrap", "Material Design", "Semantic UI", Tailwind]
       },
       backEnd: {
-         languages: ["Ruby", "Ruby on rails", "Node.js", "Solidity"]
+         languages: ["Ruby", "Ruby on rails", Node.js, Solidity]
       },
       tools: ["Webpack", "Babel"],
       test: ["Jest", "Rspec"],
-      databases: [ "mySQL", "postgresql", "Mongodb"],
+      databases: [ "mySQL", "postgresql", Mongodb],
    },
    challenge: "I'm working towards being able to run a marathon.",
 };
