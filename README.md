@@ -1,5 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-<h3 align="center">Hi 👋, I'm Arnaud</h3>
+<h3 align="center">Hi everyone,</h3>
+
+```
+Welcome to my Github profile! I'm excited to share my projects and collaborate with other developers on this platform.
+
+Feel free to browse my repositories and contribute to any projects that interest you. I'm always open to feedback and suggestions on how to improve my code, so don't hesitate to reach out to me with any ideas you have.
+
+Thanks for stopping by, and I look forward to connecting with you!
+
+Best regards,
+Arnaud
+```
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -17,15 +28,15 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Ruby, Solidity, Typescript],
    technologies: {
       frontEnd: {
-         ts: [React.js, Next.js]
-         js: ["React", "Redux", "Next.js", Ether.js],
+         ts: [React, Next, Ether, ...]
+         js: [React, Redux, "Next.js", Ether.js],
          css: ["Bootstrap", "Material Design", "Semantic UI", Tailwind]
       },
       backEnd: {
          languages: ["Ruby", "Ruby on rails", Node.js, Solidity]
       },
       tools: ["Webpack", "Babel"],
-      test: ["Jest", "Rspec"],
+      test: ["Jest", "Rspec", Mocha],
       databases: [ "mySQL", "postgresql", Mongodb],
    },
    challenge: "I'm working towards being able to run a marathon.",
