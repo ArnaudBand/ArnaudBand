@@ -1,10 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-<h3 align="center">Hi everyone,</h3>
+<h3 align="center">Hi @there,</h3>
 
 ```
-Welcome to my Github profile! I'm excited to share my projects and collaborate with other developers on this platform.
+Welcome to my GitHub profile! I'm excited to share my projects
+and collaborate with other developers on this platform.
 
-Feel free to browse my repositories and contribute to any projects that interest you. I'm always open to feedback and suggestions on how to improve my code, so don't hesitate to reach out to me with any ideas you have.
+Please feel free to browse my repositories and contribute
+to any projects you're interested in. I'm always open to
+feedback and suggestions on improving my code,
+so don't hesitate to reach out to me with any ideas you have.
 
 Thanks for stopping by, and I look forward to connecting with you!
 
@@ -15,8 +19,8 @@ Arnaud
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - ⌨ I've graduated at Microverse
-- 👓 I like to work in team
-- 🌱 I’m currently open for new opportunity
+- 👓 I like to work in a team
+- 🌱 I’m currently open to new opportunity
 - 👨‍💻 I improve my skills in web3
 - 📫 How to reach me **bandonkeyea@gmail.com**
 
@@ -37,7 +41,7 @@ const aboutMe = {
       },
       tools: ["Webpack", "Babel"],
       test: ["Jest", "Rspec", Mocha],
-      databases: [ "mySQL", "postgresql", Mongodb],
+      databases: [ "MySQL", "PostgreSQL", Mongodb],
    },
    challenge: "I'm working towards being able to run a marathon.",
 };
