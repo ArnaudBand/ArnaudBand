@@ -8,7 +8,7 @@ and collaborate with other developers on this platform.
 Please feel free to browse my repositories and contribute
 to any projects you're interested in. I'm always open to
 feedback and suggestions on improving my code,
-so don't hesitate to reach out to me with any ideas you have.
+So don't hesitate to reach out to me with any ideas you have.
 
 Thanks for stopping by, and I look forward to connecting with you!
 
@@ -18,9 +18,9 @@ Arnaud
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- ⌨ I've graduated at Microverse
-- 👓 I like to work in a team
-- 🌱 I’m currently open to new opportunity
+- ⌨ I graduated from Microverse
+- 👓: I like to work in a team
+- 🌱: I'm currently open to a new opportunity
 - 👨‍💻 I improve my skills in web3
 - 📫 How to reach me **bandonkeyea@gmail.com**
 
