@@ -18,7 +18,7 @@ Arnaud
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- ⌨ I graduated from Microverse
+- ⌨ I graduated from Microverse, Alchemy University
 - 👓: I like to work in a team
 - 🌱: I'm currently open to a new opportunity
 - 👨‍💻 I improve my skills in web3
