@@ -11,7 +11,7 @@
 
 
 
-```pyton
+```python
 const about_me = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Ruby, Solidity, Typescript],
